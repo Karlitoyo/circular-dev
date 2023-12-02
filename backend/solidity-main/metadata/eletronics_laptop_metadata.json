@@ -1,0 +1,57 @@
+{
+    "products": [
+      {
+        "product_name": "Electronic Device ABC",
+        "product_type": "Electronics",
+        "brand": "TechBrand",
+        "model_number": "ABC456",
+        "image": "https://ipfs.io/ipfs/QmZzdpQSGUHHywXNvLtjvKr4mBXHcHcubKGB5HGUwHKLK8?filename=product_image.png",
+        "description": "A high-performance electronic device with focus on sustainability and durability.",
+        "digital_passport": {
+          "data_categories": [
+            "General",
+            "Source",
+            "Footprint",
+            "Ownership",
+            "Repairs",
+            "Warranties",
+            "Instructions"
+          ],
+          "data_carrier": "NFC",
+          "benefits": [
+            "New Business Models",
+            "Consumer Protection"
+          ]
+        },
+        "use_cases": [
+          "Identify Counterfeits",
+          "Resale Verification",
+          "Experience & Education"
+        ],
+        "manufacturer": {
+          "name": "Tech Manufacturer Co.",
+          "location": "Country/Region",
+          "contact": {
+            "email": "info@techbrand.com",
+            "phone": "+987654321"
+          }
+        },
+        "sustainability_features": {
+          "energy_efficiency": "Low power consumption design",
+          "recyclability": "Contains easily separable and recyclable components"
+        },
+        "additional_info": {
+          "specs": {
+            "RAM": "8GB",
+            "Storage": "256GB SSD",
+            "Processor": "Quad-core",
+
+          },
+          "price": "$XXX.XX",
+          "availability": "Pre-order"
+        }
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+{
+    "product_name": "Graphics Card XYZ",
+    "model_number": "GCXYZ123",
+    "image": "graphic_card_image_url",
+    "description": "Description of the graphics card.",
+    "digital_passport": {
+        "data_categories": [
+            "General",
+            "Source"
+        ],
+        "benefits": [
+            "New Business Models"
+        ]
+    },
+    "use_cases": [
+        "Enhanced Graphics Performance"
+    ],
+    "sustainability_features": {
+        "energy_efficiency": "Optimized power usage",
+        "recyclability": "Easily recyclable"
+    },
+    "additional_info": {
+        "specs": {
+            "Memory": "8GB GDDR6",
+            "Interface": "PCIe 4.0"
+        }
+    }
+}

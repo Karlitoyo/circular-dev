@@ -1,0 +1,28 @@
+{
+    "product_name": "UltraWide Screen",
+    "model_number": "UWS456",
+    "image": "screen_image_url",
+    "description": "Description of the ultrawide screen.",
+    "digital_passport": {
+        "data_categories": [
+            "General",
+            "Source"
+        ],
+        "benefits": [
+            "Enhanced Productivity"
+        ]
+    },
+    "use_cases": [
+        "Immersive Viewing Experience"
+    ],
+    "sustainability_features": {
+        "energy_efficiency": "Energy-saving technology",
+        "recyclability": "Recyclable materials"
+    },
+    "additional_info": {
+        "specs": {
+            "Size": "34 inches",
+            "Resolution": "3440x1440"
+        }
+    }
+}
